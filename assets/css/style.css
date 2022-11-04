@@ -553,3 +553,9 @@ section {
 #footer .credits a {
   color: #ff3333;
 }
+
+.hd{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
